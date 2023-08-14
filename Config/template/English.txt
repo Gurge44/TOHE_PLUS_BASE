@@ -1,0 +1,2 @@
+welcome:★ Welcome! This lobby uses TOHE v{{ModVersion}}\n○ Check website for more info： toher.vercel.app\n● /help → Show all commands
+OnMeeting:● Discord: discord.gg/tohe\n○ Website：toher.vercel.app\n————————————————————\n★ Send：/r → Show role list\n★ Send：/r [role] → Show role description \n★ Send：/m → Check your role
